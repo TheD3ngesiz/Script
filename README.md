@@ -1,0 +1,2 @@
+# Script
+Yavaş Yavaş Başlıyok
